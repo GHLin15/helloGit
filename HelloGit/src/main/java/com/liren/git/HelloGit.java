@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("master-add");
         System.out.println("dec add");
         System.out.println("online add");
+        System.out.println("online add");
     }
 }
